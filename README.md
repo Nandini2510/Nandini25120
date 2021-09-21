@@ -1,5 +1,5 @@
 <h1 align="center"><samp>
-  Hi �:wave:, I'm Nandini Yadav <samp>
+  Hi :wave:, I'm Nandini Yadav <samp>
 </h1>
 <p align="center">
   <samp>
@@ -16,6 +16,7 @@
 -  **Languages :** C++ | JavaScript | Python💻
 -  **Hobbies :** Reader📕 & Dancer :headphones:
 -  **Fact :** It all starts with a wrong decision, so take it easy! 🎯:heart:
+  - 📫 How to reach me **nandini976804@gmail.com**
 
 
 <p align="center">
