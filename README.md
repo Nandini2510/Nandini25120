@@ -14,8 +14,8 @@
  
 -  **Learning :** MERN Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** C++ | JavaScript | Python💻
--  **Hobbies :** Reader📕 & Dancer :headphones:
--  **Fact :** It all starts with a wrong decision, so take it easy! 🎯:heart:
+-  **Hobbies :** Books📕 & Dance :headphones:
+-  **Fact :** It all starts with a wrong decision, take it easy! 🎯
   - 📫 How to reach me **nandini976804@gmail.com**
 
 
